@@ -80,6 +80,7 @@ Latest simulation (standard figure-8):
 - Amplitude modulation
 - Pattern sequencing
 - Concurrent recording windows
+- Coordinated Stimulation Patterns (this tells us how we can have coils interfere constructively and destructively to achieve unique stimulation patterns)
 
 ## SimNIBS Implementation
 
